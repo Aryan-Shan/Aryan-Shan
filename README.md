@@ -1,10 +1,10 @@
-<h2 align="center">Hi 👋! I am Aryan !</h2>
+<div align="center">
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGx1eDRxbHo1dnl0dzJwcnRscWYxNGo2dmxmZHNkemIzZmJ1cmxzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.gif"  />
+</div>
 
 ###
 
-<div align="center">
-  <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHlsZ2ptY2VzMm5kcXZnaWVjY3U0eTh3c2h2NTlpeHBoeTBkc25kaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GkD4U3VfiIbzcBhQNu/giphy.gif"  />
-</div>
+<h2 align="center">Hi 👋! I am Aryan !</h2>
 
 ###
 

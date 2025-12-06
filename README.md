@@ -2,6 +2,8 @@
 I like building stuff when i am not busy breaking em
 
 
+<img src="https://drive.google.com/uc?export=view&id=1QdC5KOlVmnezxkbRt7hqdjLOudhlD3Mu">
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryan_shndl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-shandilya-sr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryanshandilyajvm@gmail.com) 
 
